@@ -1,0 +1,253 @@
+# Landscape2 data
+#
+# This file contains the data that will be used to generate the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+
+categories:
+  - name: Collectifs
+    subcategories:
+      - name: Assemblées
+        items:
+          - name: AG Antifa Paname 
+            description: TODO
+            homepage_url: https://www.instagram.com/ag.antifa.paname
+            logo: agAntifaPaname.jpg
+            second_path: 
+              - "Île-de-France / Paris (75)"
+          - name: AG Antifa Rennes 
+            description: TODO
+            homepage_url: https://www.instagram.com/ag.antifa.rennes
+            logo: agAntifaRennes.jpg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+          - name: AG Logement Rennes
+            description: Mal logement, inflation des loyers et des factures, expulsions,... face à ça organisons-nous.
+            homepage_url: https://www.facebook.com/p/Assembl%C3%A9e-Logement-Rennes-61553140167019
+            logo: agLogementRennes.jpg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+            twitter: https://x.com/aglogement
+            extra: 
+              other_links: 
+                - name: Instagram
+                  url: https://www.instagram.com/assemblee.logement.rennes/
+          - name: AG Rennes 2 
+            description: Assemblée de lutte ouverte à toutes et tous se réunissant à Rennes 2
+            homepage_url: https://www.instagram.com/ag.rennes2
+            logo: agRennes2.jpg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+        
+      - name: Groupes
+        items:
+          - name: ASAP Révolution
+            description: Groupe révolutionnaire, contre l'État, la marchandise, le travail
+            homepage_url: https://asap.noblogs.org
+            logo: asapRevolution.jpeg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+            twitter: https://x.com/asap_revolution
+          - name: Coordination Autonome de Brest
+            description: TODO
+            homepage_url: https://coordbrest.noblogs.org
+            logo: coordBrest.jpg
+            second_path: 
+              - "Bretagne / Finistère (29)"
+          - name: Défense Collective
+            description: TODO
+            homepage_url: https://defensecollective.noblogs.org
+            logo: dc.jpg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+            twitter: https://x.com/defense_co
+          - name: Les Fleurs Arctiques
+            description: Une bibliothèque pour la révolution - Paris 19e
+            homepage_url: https://lesfleursarctiques.noblogs.org/
+            logo: fleursArctiques.jpg
+            second_path: 
+              - "Collectifs / Bibliothèques & librairies"
+              - "Île-de-France / Paris (75)"
+            twitter: https://x.com/defense_co
+          - name: Grève
+            description: Groupe public et autonome pour la révolution
+            homepage_url: https://linktr.ee/grevenantes
+            logo: greveNantes.jpg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
+            twitter: https://x.com/Greve_nantes
+          - name: L'insolente
+            description: Espace autogéré chambérien
+            homepage_url: https://linsolente.lautre.net
+            logo: insolente.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
+          - name: Loukanikos
+            description: Un local révolutionnaire à Rennes !
+            homepage_url: https://linktr.ee/loukanikos_rennes
+            logo: loukanikos.jpeg
+            second_path: 
+              - "Collectifs / Bibliothèques & librairies"
+              - "Bretagne / Ile-et-Vilaine (35)"
+            twitter: https://x.com/LoukanikosLocal
+          - name: Les Oiseaux de la Tempête
+            description: TODO
+            homepage_url: https://www.oizos.fr/bienvenue
+            logo: oiseauxFougeres.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+            facebook: https://www.facebook.com/LesOiseauxdelatempeteFougeres/
+          - name: Réseau Angevin Antifasciste
+            description: TODO
+            homepage_url: https://raaf.noblogs.org
+            logo: raaf.jpg
+            second_path: 
+              - "Pays de la Loire / Maine-et-Loire (49)"
+            twitter: https://x.com/angersraaf
+
+      - name: Bibliothèques & librairies
+        items:
+          - name: Les Nuits Bleues
+            description: TODO
+            homepage_url: http://lesnuitsbleues.fermeasites.net
+            logo: lesNuitsBleues.jpg
+            second_path: 
+              - "Pays de la Loire / Maine-et-Loire (49)"      
+
+  - name: Médias
+    subcategories:
+      - name: Journaux
+        items:  
+          - name: Chuang
+            description: TODO
+            homepage_url: https://chuangcn.org/journal
+            logo: chuang.png
+            twitter: https://x.com/chuangcn
+            second_path: 
+              - "International / Chine"
+          - name: Endnotes
+            description: TODO
+            homepage_url: https://endnotes.org.uk/
+            logo: endnotes.jpg
+            twitter: https://x.com/endnotesjournal
+            second_path: 
+              - "International / Royaume-Uni"
+          - name: L'Envolée
+            description: TODO
+            homepage_url: https://lenvolee.net/
+            logo: envolee.jpg
+            twitter: https://x.com/l_envolee
+          - name: Mauvais Sang
+            description: Un journal bâtard pour la révolution
+            homepage_url: https://mauvaissang.noblogs.org
+            logo: mauvaisSang.jpg
+            twitter: https://x.com/mauvaissang9
+
+      - name: Maisons d'édition
+        items: 
+          - name: Agone
+            description: Proposer des livres qui fournissent au plus grand nombre des outils pour comprendre le monde dans lequel nous vivons
+            homepage_url: https://agone.org/
+            logo: agone.png
+          - name: l'échappée
+            description: TODO
+            homepage_url: https://www.lechappee.org/
+            logo: echappee.png  
+          - name: Editions Acratie
+            description: A travers l'engagement politique, l'histoire ou la littérature, une vision libertaire pour un monde à imaginer et à bâtir
+            homepage_url: https://editionsacratie.com
+            logo: acratie.png
+          - name: Les éditions de l'Asymétrie
+            description: TODO
+            homepage_url: https://editionsasymetrie.org/
+            logo: asymetrie.png
+          - name: Entremonde
+            description: Les éditions Entremonde s'attachent à la publication de textes de critique sociale
+            homepage_url: http://www.entremonde.net/
+            logo: entremonde.jpg
+            twitter: https://x.com/Ed_Entremonde
+          - name: niet!éditions
+            description: TODO
+            homepage_url: https://niet-editions.fr/
+            logo: nieteditions.jpg
+            twitter: https://x.com/nieteditions
+          - name: Smolny
+            description: TODO
+            homepage_url: https://smolny.fr
+            logo: smolny.jpg
+            twitter: https://x.com/CoSmolny
+
+      - name: Radio & podcasts
+        items: 
+          - name: Radio 2049
+            description: Une radio pour la révolution, Des podcasts sans transitions. Des lives publics, Dans un esprit de rupture.
+            homepage_url: https://www.youtube.com/@radio2k49
+            logo: radio2049.jpg
+            extra:
+              youtube_url: https://www.youtube.com/@radio2k49 
+          - name: Sortir du capitalisme
+            description: Un podcast pour une critique émancipatrice du capitalisme et des autres formes de domination
+            homepage_url: http://sortirducapitalisme.fr/
+            logo: sortirDuCapitalisme.jpg
+            twitter: https://x.com/sortirducap 
+            extra:
+              youtube_url: https://www.youtube.com/@Sortirducapitalisme
+
+      - name: Sites web
+        items: 
+          - name: Archives autonomie
+            description: Fragments d'histoire de la gauche radicale
+            homepage_url: https://archivesautonomies.org/
+            logo: noImage.jpg
+          - name: Assembly
+            description: 
+            homepage_url: https://assembly.org.ua
+            logo: assembly.jpg
+            second_path:
+              - "International / Ukraine"
+            extra:
+              other_links:
+                - name: libcom.org
+                  url: https://libcom.org/tags/assemblyorgua
+          - name: CrimethInc.
+            description: CrimethInc. is a rebel alliance — a secret society pledged to the propagation of crimethink. It is a think tank producing ideas and action, a sphinx posing questions fatal to the superstitions of our age.
+            homepage_url: https://crimethinc.com
+            logo: crimethInc.jpeg
+            second_path:
+              - "International / Etats-Unis"
+          - name: des nouvelles du front
+            description: En attendant la fin
+            homepage_url: https://dndf.org/
+            logo: dndf.jpg
+          - name: Dimanche Aprèm
+            description: un site critique de l'appelisme
+            homepage_url: https://dimanche.pm
+            logo: noImage.jpg
+          - name: Infokiosques
+            description: Brochures subversives à lire, imprimer, partager
+            homepage_url: https://infokiosques.net
+            logo: infokiosques.png
+          - name: infoLibertaire.net
+            description: TODO
+            homepage_url: https://www.infolibertaire.net
+            logo: infoLibertaire.jpg  
+          - name: libcom.org
+            description: Libcom.org sert de ressource pour celles et ceux qui souhaitent se battre pour améliorer leur vie, celle des leurs ainsi que leurs conditions de travail. Nous voulons échanger et débattre, apprendre des succès et des échecs du passé et développer des stratégies pour pouvoir, en tant que personnes ordinaires, prendre nos propres vies en main.
+            homepage_url: https://libcom.org/
+            logo: libcom.svg
+          - name: Réseau Mutu
+            description: "Ce réseau, appelé « Mutu », correspond à un projet tout simple : la tentative de partager nos expériences et mettre en commun un certain nombre de dispositifs techniques."
+            homepage_url: https://reseaumutu.info/Presentation-du-reseau-Mutu-001
+            logo: reseauMutu.png
+          - name: TŘÍdnÍ VÁlka
+            description: TODO
+            homepage_url: https://www.autistici.org/tridnivalka
+            logo: tridniValka.jpg
+          - name: Zones subversives
+            description: Chroniques critiques
+            homepage_url: http://www.zones-subversives.com
+            logo: noImage.jpg
+          
+
+  - name: Auvergne-Rhône-Alpes
+    subcategories:
