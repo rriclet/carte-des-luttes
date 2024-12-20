@@ -10,15 +10,23 @@ categories:
       - name: Assemblées
         items:
           - name: AG Antifa Paname 
+            description: Compte officieux servant de relais aux décisions prises durant les Assemblées générales antifascistes de Paname.
             homepage_url: https://www.instagram.com/ag.antifa.paname
             logo: agAntifaPaname.jpg
             second_path: 
               - "Île-de-France / Paris (75)"
           - name: AG Antifa Rennes 
+            description: Ce compte (non officiel) relaie les appels et les décisions de l'Assemblée Générale Antifasciste de Rennes
             homepage_url: https://www.instagram.com/ag.antifa.rennes
             logo: agAntifaRennes.jpg
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: AG de lutte contre les expulsions
+            description: Contre la spéculation immobilière et les politiques anti-sociales !
+            homepage_url: https://agcontrelesexpulsions.wordpress.com/
+            logo: agExpulsionsCaen.webp
+            second_path: 
+              - "Normandie / Calvados (14)"
           - name: AG Logement Rennes
             description: Mal logement, inflation des loyers et des factures, expulsions,... face à ça organisons-nous.
             homepage_url: https://www.facebook.com/p/Assembl%C3%A9e-Logement-Rennes-61553140167019
@@ -37,7 +45,7 @@ categories:
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
         
-      - name: Groupes
+      - name: Groupes locaux
         items:
           - name: ASAP Révolution
             description: Groupe révolutionnaire, contre l'État, la marchandise, le travail
@@ -53,9 +61,7 @@ categories:
             homepage_url: https://www.atheneelibertaire.net/
             logo: atheneeLibertaire.png
             second_path: 
-              - "Collectifs / Bibliothèques & librairies"
               - "Nouvelle-Aquitaine / Gironde (33)"
-            twitter: https://x.com/asap_revolution
           - name: Collectif Anti Travail
             description: Pour réfléchir, s'organiser et chatbarder les officines travaillistes !
             homepage_url: https://x.com/CATcollectif
@@ -64,24 +70,18 @@ categories:
               - "Île-de-France / Paris (75)"
             twitter: https://x.com/CATcollectif
           - name: Coordination Autonome de Brest
+            description: |
+              Local ouvert au 10 rue Sisley, Brest
             homepage_url: https://coordbrest.noblogs.org
             logo: coordBrest.jpg
             second_path: 
-              - "Collectifs / Bibliothèques & librairies"
               - "Bretagne / Finistère (29)"
           - name: Défense Collective
+            description: De la rue aux tribunaux, Défense Collective ! Groupe ouvert, public, et autonome, nous luttons pour la défense du mouvement social face à la répression.
             homepage_url: https://defensecollective.noblogs.org
             logo: dc.jpg
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
-            twitter: https://x.com/defense_co
-          - name: Les Fleurs Arctiques
-            description: Une bibliothèque pour la révolution - Paris 19e
-            homepage_url: https://lesfleursarctiques.noblogs.org/
-            logo: fleursArctiques.jpg
-            second_path: 
-              - "Collectifs / Bibliothèques & librairies"
-              - "Île-de-France / Paris (75)"
             twitter: https://x.com/defense_co
           - name: Grève
             description: Groupe public et autonome pour la révolution
@@ -104,24 +104,24 @@ categories:
             logo: laParoleErrante.png
             second_path: 
               - "Île-de-France / Seine-Saint-Denis (93)"
-          - name: La Plume Noire
+          - name: Local Apache
             description: |
-              Librairie auto-gérée par les militant.e.s de l'Union Communiste Libertaire
-              8 rue Diderot, 69001 Lyon
-            homepage_url: https://librairieplumenoire.org/
-            logo: laPlumeNoire.png
+              Mutuelles d'entraide, Infokiosque, Zone de gratuité, Causeries… 
+              35 Boulevard Poincaré, 14000 Caen
+              Permanences hebdomadaires (en alternance le vendredi ou le mercredi) de 18 à 19h.
+            homepage_url: https://localapachecaen.wordpress.com/
+            logo: noImage.jpg
             second_path: 
-              - "Collectifs / Bibliothèques & librairies"
-              - "Auvergne-Rhône-Alpes / Rhône (69)"
+              - "Normandie / Calvados (14)"
           - name: Loukanikos
             description: Un local révolutionnaire à Rennes !
             homepage_url: https://linktr.ee/loukanikos_rennes
             logo: loukanikos.jpeg
             second_path: 
-              - "Collectifs / Bibliothèques & librairies"
               - "Bretagne / Ile-et-Vilaine (35)"
             twitter: https://x.com/LoukanikosLocal
           - name: Les Oiseaux de la Tempête
+            description: Collectif installé dans Fougères en Ille-et-Vilaine, qui ouvre et gère des lieux politiques, sociaux et culturels, des lieux de solidarités et de rencontres, d’exercice de l’autogestion et d’échanges non marchands. Nous sommes ouverts à toutes et à tous, quel que soit votre âge !
             homepage_url: https://www.oizos.fr/bienvenue
             logo: oiseauxFougeres.png
             second_path: 
@@ -132,9 +132,9 @@ categories:
             homepage_url: https://www.millebabords.org/spip.php
             logo: milleBabords.jpg
             second_path: 
-              - "Collectifs / Bibliothèques & librairies"
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Réseau Angevin Antifasciste
+            description: Basé à Angers
             homepage_url: https://raaf.noblogs.org
             logo: raaf.jpg
             second_path: 
@@ -178,10 +178,13 @@ categories:
           - name: CIRA de Marseille
             description: Centre international de recherches sur l'anarchisme
             homepage_url: https://www.cira-marseille.info/
-            logo: cira.jpg
+            logo: ciraMarseille.jpg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Les Nuits Bleues
+            description: |
+              21 rue Maillé - Angers
+              Du mardi au samedi de 11h à 18h
             homepage_url: http://lesnuitsbleues.fermeasites.net
             logo: lesNuitsBleues.jpg
             second_path: 
@@ -208,12 +211,30 @@ categories:
             logo: laGryffe.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: La Plume Noire
+            description: |
+              Librairie auto-gérée par les militant.e.s de l'Union Communiste Libertaire
+              8 rue Diderot, 69001 Lyon
+            homepage_url: https://librairieplumenoire.org/
+            logo: laPlumeNoire.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Les Fleurs Arctiques
+            description: Une bibliothèque pour la révolution - Paris 19e
+            homepage_url: https://lesfleursarctiques.noblogs.org/
+            logo: fleursArctiques.jpg
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: Librairie Publico
-            homepage_url: http://lesnuitsbleues.fermeasites.net
+            description: 145 Rue Amelot, 75011 Paris
+            homepage_url: https://www.librairie-publico.com/
             logo: publico.webp
             second_path: 
               - "Île-de-France / Paris (75)"      
           - name: Librairie Quilombo
+            description: |
+              23 rue Voltaire 75011 Paris
+              du mardi au samedi de 13h à 20h  
             homepage_url: https://librairie-quilombo.org
             logo: quilombo.jpeg
             second_path: 
@@ -232,18 +253,23 @@ categories:
       - name: Journaux
         items:  
           - name: Chuang
+            description: 闯 Chuang publishes a journal and blog analyzing the ongoing development of capitalism in China and the revolts of those crushed beneath it.
             homepage_url: https://chuangcn.org/journal
             logo: chuang.png
             twitter: https://x.com/chuangcn
             second_path: 
               - "International / Chine"
           - name: Endnotes
+            description: https://endnotes.org.uk/pages/about
             homepage_url: https://endnotes.org.uk/
             logo: endnotes.jpg
             twitter: https://x.com/endnotesjournal
             second_path: 
               - "International / Royaume-Uni"
           - name: L'Envolée
+            description: |
+              Pour en finir avec toutes les prisons 
+              Radio hebdomadaire + Journal + http://lenvolee.net par des http://prisonnier.es et des proches depuis 2001  📳 07.53.10.31.95
             homepage_url: https://lenvolee.net/
             logo: envolee.jpg
             second_path: 
@@ -271,6 +297,7 @@ categories:
             homepage_url: https://editionsacratie.com
             logo: acratie.png
           - name: Editions Crise & Critique
+            description: Les éditions Crise & Critique s'attachent à la publication d'une théorie critique du capitalisme-patriarcat, c'est-à-dire une théorie de son abolition.
             homepage_url: https://www.editions-crise-et-critique.fr/
             logo: editionsCriseCritique.jpg
             twitter: https://x.com/CriseCritique
@@ -280,13 +307,16 @@ categories:
             logo: entremonde.jpg
             twitter: https://x.com/Ed_Entremonde
           - name: Les éditions de l'Asymétrie
+            description: https://editionsasymetrie.org/contact-bon-de-commande-et-espace-pro/
             homepage_url: https://editionsasymetrie.org/
             logo: asymetrie.png
           - name: niet!éditions
+            description: Édition collective & critique sociale. Actualités & témoignages. Luttes d'ici, luttes d'ailleurs.
             homepage_url: https://niet-editions.fr/
             logo: nieteditions.jpg
             twitter: https://x.com/nieteditions
           - name: Smolny
+            description: Collectif d'édition — Histoire du mvt ouvrier — Œuvres de Rosa Luxemburg — Oppositions de gauche — Théorie critique
             homepage_url: https://smolny.fr
             logo: smolny.jpg
             twitter: https://x.com/CoSmolny
@@ -351,6 +381,12 @@ categories:
               other_links:
                 - name: libcom.org
                   url: https://libcom.org/tags/assemblyorgua
+          - name: bureburebure.info
+            description: Collectif anti-nucléaire 
+            homepage_url: https://bureburebure.info/
+            logo: bureburebure.jpg
+            second_path:
+              - "Grand Est / Meuse (55)"
           - name: CrimethInc.
             description: CrimethInc. is a rebel alliance — a secret society pledged to the propagation of crimethink. It is a think tank producing ideas and action, a sphinx posing questions fatal to the superstitions of our age.
             homepage_url: https://crimethinc.com
@@ -374,7 +410,7 @@ categories:
             homepage_url: https://barbaria.net/
             logo: grupoBarbaria.jpg
             second_path: 
-              - "International / ???"
+              - "International / Espagne"
             twitter: https://x.com/grupobarbaria
           - name: Infokiosques
             description: Brochures subversives à lire, imprimer, partager
@@ -383,6 +419,7 @@ categories:
             second_path: 
               - "National / -"
           - name: infoLibertaire.net
+            description: Info Libertaire permet d'avoir rapidement des infos et des actualités quotidiennes provenant de sources diverses de la presse militante. Plus de 300 sources sont automatiquement diffusées ici dès que du nouveau contenu est disponible, réunissant ainsi les publications de médias alternatifs francophones influencés par les idées libertaires et antifascistes
             homepage_url: https://www.infolibertaire.net
             logo: infoLibertaire.jpg
             second_path: 
@@ -396,7 +433,7 @@ categories:
           - name: radar.squat.net
             description: "Radar: An agenda free of commercial interest."
             homepage_url: https://radar.squat.net/
-            logo: noImage.jpg
+            logo: radarSquatNet.png
             second_path: 
               - "International / -"
           - name: Rennes DTR
