@@ -10,13 +10,11 @@ categories:
       - name: Assemblées
         items:
           - name: AG Antifa Paname 
-            description: TODO
             homepage_url: https://www.instagram.com/ag.antifa.paname
             logo: agAntifaPaname.jpg
             second_path: 
               - "Île-de-France / Paris (75)"
           - name: AG Antifa Rennes 
-            description: TODO
             homepage_url: https://www.instagram.com/ag.antifa.rennes
             logo: agAntifaRennes.jpg
             second_path: 
@@ -48,14 +46,19 @@ categories:
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
             twitter: https://x.com/asap_revolution
+          - name: Collectif Anti Travail
+            description: Pour réfléchir, s'organiser et chatbarder les officines travaillistes !
+            homepage_url: https://x.com/CATcollectif
+            logo: cat.jpg
+            second_path: 
+              - "Île-de-France / Paris (75)"
+            twitter: https://x.com/CATcollectif
           - name: Coordination Autonome de Brest
-            description: TODO
             homepage_url: https://coordbrest.noblogs.org
             logo: coordBrest.jpg
             second_path: 
               - "Bretagne / Finistère (29)"
           - name: Défense Collective
-            description: TODO
             homepage_url: https://defensecollective.noblogs.org
             logo: dc.jpg
             second_path: 
@@ -91,14 +94,12 @@ categories:
               - "Bretagne / Ile-et-Vilaine (35)"
             twitter: https://x.com/LoukanikosLocal
           - name: Les Oiseaux de la Tempête
-            description: TODO
             homepage_url: https://www.oizos.fr/bienvenue
             logo: oiseauxFougeres.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
             facebook: https://www.facebook.com/LesOiseauxdelatempeteFougeres/
           - name: Réseau Angevin Antifasciste
-            description: TODO
             homepage_url: https://raaf.noblogs.org
             logo: raaf.jpg
             second_path: 
@@ -108,7 +109,6 @@ categories:
       - name: Bibliothèques & librairies
         items:
           - name: Les Nuits Bleues
-            description: TODO
             homepage_url: http://lesnuitsbleues.fermeasites.net
             logo: lesNuitsBleues.jpg
             second_path: 
@@ -119,28 +119,29 @@ categories:
       - name: Journaux
         items:  
           - name: Chuang
-            description: TODO
             homepage_url: https://chuangcn.org/journal
             logo: chuang.png
             twitter: https://x.com/chuangcn
             second_path: 
               - "International / Chine"
           - name: Endnotes
-            description: TODO
             homepage_url: https://endnotes.org.uk/
             logo: endnotes.jpg
             twitter: https://x.com/endnotesjournal
             second_path: 
               - "International / Royaume-Uni"
           - name: L'Envolée
-            description: TODO
             homepage_url: https://lenvolee.net/
             logo: envolee.jpg
+            second_path: 
+              - "National / -"
             twitter: https://x.com/l_envolee
           - name: Mauvais Sang
             description: Un journal bâtard pour la révolution
             homepage_url: https://mauvaissang.noblogs.org
             logo: mauvaisSang.jpg
+            second_path: 
+              - "National / -"
             twitter: https://x.com/mauvaissang9
 
       - name: Maisons d'édition
@@ -150,29 +151,29 @@ categories:
             homepage_url: https://agone.org/
             logo: agone.png
           - name: l'échappée
-            description: TODO
             homepage_url: https://www.lechappee.org/
             logo: echappee.png  
           - name: Editions Acratie
             description: A travers l'engagement politique, l'histoire ou la littérature, une vision libertaire pour un monde à imaginer et à bâtir
             homepage_url: https://editionsacratie.com
             logo: acratie.png
-          - name: Les éditions de l'Asymétrie
-            description: TODO
-            homepage_url: https://editionsasymetrie.org/
-            logo: asymetrie.png
+          - name: Editions Crise & Critique
+            homepage_url: https://www.editions-crise-et-critique.fr/
+            logo: editionsCriseCritique.jpg
+            twitter: https://x.com/CriseCritique
           - name: Entremonde
             description: Les éditions Entremonde s'attachent à la publication de textes de critique sociale
             homepage_url: http://www.entremonde.net/
             logo: entremonde.jpg
             twitter: https://x.com/Ed_Entremonde
+          - name: Les éditions de l'Asymétrie
+            homepage_url: https://editionsasymetrie.org/
+            logo: asymetrie.png
           - name: niet!éditions
-            description: TODO
             homepage_url: https://niet-editions.fr/
             logo: nieteditions.jpg
             twitter: https://x.com/nieteditions
           - name: Smolny
-            description: TODO
             homepage_url: https://smolny.fr
             logo: smolny.jpg
             twitter: https://x.com/CoSmolny
@@ -184,7 +185,18 @@ categories:
             homepage_url: https://www.youtube.com/@radio2k49
             logo: radio2049.jpg
             extra:
-              youtube_url: https://www.youtube.com/@radio2k49 
+              youtube_url: https://www.youtube.com/@radio2k49
+            second_path: 
+              - "National / -"
+          - name: Radio Mad Max
+            description: La radio des chiens de la cax, qui veut contribuer aux débordements révolutionnaires des révoltes et mouvements sociaux.
+            homepage_url: https://www.radiomadmax.xyz/
+            twitter: https://x.com/RadioMadMax
+            logo: radioMadMax.jpg
+            extra:
+              youtube_url: https://www.youtube.com/@radiomadmax
+            second_path: 
+              - "National / -"
           - name: Sortir du capitalisme
             description: Un podcast pour une critique émancipatrice du capitalisme et des autres formes de domination
             homepage_url: http://sortirducapitalisme.fr/
@@ -192,13 +204,30 @@ categories:
             twitter: https://x.com/sortirducap 
             extra:
               youtube_url: https://www.youtube.com/@Sortirducapitalisme
+            second_path: 
+              - "National / -"
 
       - name: Sites web
         items: 
+          - name: À bas les CRA
+            description: À bas les Centres de Rétention Administrative ! Contre toute forme d'enfermement, les prisons pour étranger.e.s et le racisme d'état 🔥
+            homepage_url: https://abaslescra.noblogs.org/
+            logo: aBasLesCra.jpg
+            second_path: 
+              - "National / -"
+            twitter: https://x.com/bas_cra
+          - name: Angry Workers of the world
+            description: We are a network of comrades in the UK who want to support the self-organisation of our class and understand the international conditions for the overthrow of the system
+            homepage_url: https://www.angryworkers.org/
+            logo: angryWorkers.jpg
+            second_path: 
+              - "International / Royaume-Uni"
           - name: Archives autonomie
             description: Fragments d'histoire de la gauche radicale
             homepage_url: https://archivesautonomies.org/
             logo: noImage.jpg
+            second_path: 
+              - "National / -"
           - name: Assembly
             description: 
             homepage_url: https://assembly.org.ua
@@ -219,34 +248,62 @@ categories:
             description: En attendant la fin
             homepage_url: https://dndf.org/
             logo: dndf.jpg
+            second_path: 
+              - "International / -"
           - name: Dimanche Aprèm
             description: un site critique de l'appelisme
             homepage_url: https://dimanche.pm
             logo: noImage.jpg
+            second_path: 
+              - "National / -"
+          - name: Grupo Barbaria
+            description: Grupo de comunistas contra la mercancía y el Estado
+            homepage_url: https://barbaria.net/
+            logo: grupoBarbaria.jpg
+            second_path: 
+              - "International / ???"
+            twitter: https://x.com/grupobarbaria
           - name: Infokiosques
             description: Brochures subversives à lire, imprimer, partager
             homepage_url: https://infokiosques.net
             logo: infokiosques.png
+            second_path: 
+              - "National / -"
           - name: infoLibertaire.net
-            description: TODO
             homepage_url: https://www.infolibertaire.net
-            logo: infoLibertaire.jpg  
+            logo: infoLibertaire.jpg
+            second_path: 
+              - "National / -"  
           - name: libcom.org
             description: Libcom.org sert de ressource pour celles et ceux qui souhaitent se battre pour améliorer leur vie, celle des leurs ainsi que leurs conditions de travail. Nous voulons échanger et débattre, apprendre des succès et des échecs du passé et développer des stratégies pour pouvoir, en tant que personnes ordinaires, prendre nos propres vies en main.
             homepage_url: https://libcom.org/
-            logo: libcom.svg
+            logo: libcom.svg  
+            second_path: 
+              - "International / -"
+          - name: Rennes DTR
+            description: Média autonome sur les luttes à Rennes
+            homepage_url: https://x.com/RennesDTR
+            logo: rennesDtr.jpg
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)" 
+            twitter: https://x.com/RennesDTR
           - name: Réseau Mutu
             description: "Ce réseau, appelé « Mutu », correspond à un projet tout simple : la tentative de partager nos expériences et mettre en commun un certain nombre de dispositifs techniques."
             homepage_url: https://reseaumutu.info/Presentation-du-reseau-Mutu-001
             logo: reseauMutu.png
+            second_path: 
+              - "National / -"
           - name: TŘÍdnÍ VÁlka
-            description: TODO
             homepage_url: https://www.autistici.org/tridnivalka
             logo: tridniValka.jpg
+            second_path: 
+              - "International / -"
           - name: Zones subversives
             description: Chroniques critiques
             homepage_url: http://www.zones-subversives.com
             logo: noImage.jpg
+            second_path: 
+              - "National / -"
           
 
   - name: Auvergne-Rhône-Alpes
