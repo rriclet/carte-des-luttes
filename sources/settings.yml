@@ -25,11 +25,6 @@ footer:
 grid_items_size: large
 
 groups: 
-  - name: par type de collectif
-    categories: 
-      - Collectifs
-      - Médias
-
   - name: par région
     categories: 
       - National
@@ -49,6 +44,11 @@ groups:
       - Provence-Alpes-Côte d'Azur
       - Monaco
       - International
+
+  - name: par type de collectif
+    categories: 
+      - Collectifs
+      - Médias
 
 header:
   links:
