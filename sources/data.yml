@@ -132,7 +132,7 @@ categories:
             second_path: 
               - "Normandie / Calvados (14)"
           - name: Loukanikos
-            description: Un local révolutionnaire à Rennes !
+            description: Un local révolutionnaire à Rennes ! - Square 8 mai 1945 Rennes - ouvert les vendredis de 18h à 20h
             homepage_url: https://linktr.ee/loukanikos_rennes
             logo: loukanikos.jpeg
             second_path: 
@@ -319,6 +319,10 @@ categories:
             homepage_url: https://www.editions-crise-et-critique.fr/
             logo: editionsCriseCritique.jpg
             twitter: https://x.com/CriseCritique
+          - name: Editions Spartacus
+            description: "Elles publient des textes marxistes anti-autoritaires (opposés au léninisme et bien sûr au stalinisme), et plus généralement des différents courants révolutionnaires anti-léninistes et anti-autoritaires. (Wikipédia)"
+            homepage_url: https://www.syllepse.net/cahiers-spartacus-_r_88_va_1.html
+            logo: spartacus.jpg
           - name: Entremonde
             description: Les éditions Entremonde s'attachent à la publication de textes de critique sociale
             homepage_url: http://www.entremonde.net/
