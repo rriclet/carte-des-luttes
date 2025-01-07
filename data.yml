@@ -9,6 +9,12 @@ categories:
     subcategories:
       - name: Assemblées
         items:
+          - name: AG Antifa Bordeaux
+            description: AssembleeAntifascisteBordeaux@proton.me
+            homepage_url: https://www.instagram.com/assemblee.antifasciste.bdx/
+            logo: agAntifaBordeaux.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: AG Antifa Paname 
             description: Compte officieux servant de relais aux décisions prises durant les Assemblées générales antifascistes de Paname.
             homepage_url: https://www.instagram.com/ag.antifa.paname
@@ -27,6 +33,12 @@ categories:
             logo: agExpulsionsCaen.webp
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: AG de Nantes
+            description: Compte relayant les décisions et les rendez-vous de l'AG, ouverte à tous et à toutes, qui se réunit à l'Université de Nantes
+            homepage_url: https://www.instagram.com/ag_de_nantes/
+            logo: agNantes.jpg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: AG Logement Rennes
             description: Mal logement, inflation des loyers et des factures, expulsions,... face à ça organisons-nous.
             homepage_url: https://www.facebook.com/p/Assembl%C3%A9e-Logement-Rennes-61553140167019
@@ -116,6 +128,12 @@ categories:
             logo: laParoleErrante.png
             second_path: 
               - "Île-de-France / Seine-Saint-Denis (93)"
+          - name: Les Tanneries
+            description: Ici l'Espace Autogéré des Tanneries, centre social, culturel et politique situé à Dijon (fRance), au 35-37 rue des Ateliers.
+            homepage_url: https://tanneries.org/
+            logo: lesTanneries.jpeg
+            second_path: 
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
           - name: Lille:alternaire
             description: Lille bouge, frémit même régulièrement. Vous pouvez suivre, sur ce portail, la vie libertaire régionale et lilloise par l'agenda et le CCL ou Centre culturel libertaire, par exemple. D'autres rubriques sont hébergées.
             homepage_url: https://lille.cybertaria.org/
