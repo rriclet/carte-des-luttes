@@ -27,7 +27,6 @@ jobs:
         run: |
           landscape2 build \
             --settings-file ./settings.yml \
-            --guide-file ./guide.yml \
             --data-file ./data.yml \
             --logos-path ./logos \
             --output-dir /tmp/landscape
