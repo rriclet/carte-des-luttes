@@ -9,6 +9,12 @@ categories:
     subcategories:
       - name: Assemblées
         items:
+          - name: AG Antifa Amiens
+            description: Collectif Amiens Révolté devenu ag.antifa.amiens
+            homepage_url: https://www.instagram.com/ag.antifa.amiens/
+            logo: agAntifaAmiens.jpg
+            second_path: 
+              - "Hauts-de-France / Amiens (80)"
           - name: AG Antifa Bordeaux
             description: AssembleeAntifascisteBordeaux@proton.me
             homepage_url: https://www.instagram.com/assemblee.antifasciste.bdx/
@@ -59,6 +65,12 @@ categories:
         
       - name: Groupes locaux
         items:
+          - name: L'Anamorphose
+            description: 48 RUE DU LONG POT, À LILLE-FIVES 
+            homepage_url: https://anamorphose.noblogs.org/
+            logo: anamorphose.jpg
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
           - name: ASAP Révolution
             description: Groupe révolutionnaire, contre l'État, la marchandise, le travail
             homepage_url: https://asap.noblogs.org
@@ -74,6 +86,13 @@ categories:
             logo: atheneeLibertaire.png
             second_path: 
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: Au Chat Noir
+            description: |
+              Au Chat Noir est un local associatif, ouvert depuis le 22 Mars 2019, situé au 270 avenue de Muret à Toulouse, en Occitanie.
+            homepage_url: https://auchatnoir.noblogs.org/qui-sommes-nous/
+            logo: auChatNoir.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
           - name: Collectif Anti Travail
             description: Pour réfléchir, s'organiser et chatbarder les officines travaillistes !
             homepage_url: https://x.com/CATcollectif
@@ -176,6 +195,13 @@ categories:
             second_path: 
               - "Pays de la Loire / Maine-et-Loire (49)"
             twitter: https://x.com/angersraaf
+          - name: Riposte Collective
+            description: Groupe ouvert et public pour organiser la riposte !
+            homepage_url: https://riposte-collective.org/
+            logo: riposteCollective.jpg
+            second_path: 
+              - "Île-de-France / Paris (75)"
+            twitter: https://x.com/riposte_col
 
       - name: Bibliothèques & librairies
         items:
