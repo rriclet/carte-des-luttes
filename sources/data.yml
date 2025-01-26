@@ -418,13 +418,6 @@ categories:
 
       - name: Sites web
         items: 
-          - name: À bas les CRA
-            description: À bas les Centres de Rétention Administrative ! Contre toute forme d'enfermement, les prisons pour étranger.e.s et le racisme d'état 🔥
-            homepage_url: https://abaslescra.noblogs.org/
-            logo: aBasLesCra.jpg
-            second_path: 
-              - "National / -"
-            twitter: https://x.com/bas_cra
           - name: Angry Workers of the world
             description: We are a network of comrades in the UK who want to support the self-organisation of our class and understand the international conditions for the overthrow of the system
             homepage_url: https://www.angryworkers.org/
@@ -546,5 +539,14 @@ categories:
               - "National / -"
           
 
-  - name: Auvergne-Rhône-Alpes
+  - name: National
     subcategories:
+      - name: "-"
+        items:
+          - name: À bas les CRA
+            description: À bas les Centres de Rétention Administrative ! Contre toute forme d'enfermement, les prisons pour étranger.e.s et le racisme d'état 🔥
+            homepage_url: https://abaslescra.noblogs.org/
+            logo: aBasLesCra.jpg
+            second_path: 
+              - "Médias / Sites web"
+            twitter: https://x.com/bas_cra
