@@ -531,13 +531,15 @@ categories:
             logo: tridniValka.jpg
             second_path: 
               - "International / -"
+          
+
+  - name: National
+    subcategories:
+      - name: "-"
+        items: 
           - name: Zones subversives
             description: Chroniques critiques
             homepage_url: http://www.zones-subversives.com
             logo: noImage.jpg
             second_path: 
-              - "National / -"
-          
-
-  - name: National
-    subcategories:
+              - "Médias / Sites web"
