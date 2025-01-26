@@ -531,22 +531,15 @@ categories:
             logo: tridniValka.jpg
             second_path: 
               - "International / -"
-          - name: Zones subversives
-            description: Chroniques critiques
-            homepage_url: http://www.zones-subversives.com
-            logo: noImage.jpg
-            second_path: 
-              - "National / -"
           
 
   - name: National
     subcategories:
       - name: "-"
-        items:
-          - name: À bas les CRA
-            description: À bas les Centres de Rétention Administrative ! Contre toute forme d'enfermement, les prisons pour étranger.e.s et le racisme d'état 🔥
-            homepage_url: https://abaslescra.noblogs.org/
-            logo: aBasLesCra.jpg
+        items: 
+          - name: Zones subversives
+            description: Chroniques critiques
+            homepage_url: http://www.zones-subversives.com
+            logo: noImage.jpg
             second_path: 
               - "Médias / Sites web"
-            twitter: https://x.com/bas_cra
