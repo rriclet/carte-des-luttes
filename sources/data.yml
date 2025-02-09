@@ -45,6 +45,12 @@ categories:
             logo: agNantes.jpg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: AG des luttes de Brest
+            description: Constituée après la journée de mobilisation du 18/10/2022 à Brest
+            homepage_url: https://www.instagram.com/aglutte_brest/
+            logo: agDesLuttesDeBrest.jpg
+            second_path: 
+              - "Bretagne / Finistère (29)"
           - name: AG Logement Rennes
             description: Mal logement, inflation des loyers et des factures, expulsions,... face à ça organisons-nous.
             homepage_url: https://www.facebook.com/p/Assembl%C3%A9e-Logement-Rennes-61553140167019
