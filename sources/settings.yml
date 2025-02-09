@@ -53,6 +53,6 @@ groups:
 header:
   links:
     github: "https://github.com/rriclet/carte-des-luttes"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+  logo: "https://raw.githubusercontent.com/rriclet/carte-des-luttes/refs/heads/master/logos/taxi.png"
 
 screenshot_width: 1500
