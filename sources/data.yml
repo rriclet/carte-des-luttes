@@ -342,7 +342,13 @@ categories:
             logo: envolee.jpg
             second_path: 
               - "National / -"
-            twitter: https://x.com/l_envolee
+          - name: Le Seum
+            description: |
+              Journal pour la révolution et contre trop de choses pour en faire la liste ici
+            homepage_url: https://seumrevolution.noblogs.org/
+            logo: seum.png
+            second_path: 
+              - "National / -"
           - name: Mauvais Sang
             description: Un journal bâtard pour la révolution
             homepage_url: https://mauvaissang.noblogs.org
