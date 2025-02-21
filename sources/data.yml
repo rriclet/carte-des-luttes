@@ -99,6 +99,12 @@ categories:
             logo: auChatNoir.png
             second_path: 
               - "Occitanie / Haute-Garonne (31)"
+          - name: Cagnard
+            description: Groupe politique autonome et ouvert. Pour s’organiser, intervenir et se défendre dans les mouvements sociaux.
+            homepage_url: https://www.instagram.com/cagnard_marseille/
+            logo: cagnard.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Collectif Anti Travail
             description: Pour réfléchir, s'organiser et chatbarder les officines travaillistes !
             homepage_url: https://x.com/CATcollectif
@@ -171,7 +177,7 @@ categories:
               35 Boulevard Poincaré, 14000 Caen
               Permanences hebdomadaires (en alternance le vendredi ou le mercredi) de 18 à 19h.
             homepage_url: https://localapachecaen.wordpress.com/
-            logo: noImage.jpg
+            logo: localApache.png
             second_path: 
               - "Normandie / Calvados (14)"
           - name: Loukanikos
@@ -201,6 +207,12 @@ categories:
             second_path: 
               - "Pays de la Loire / Maine-et-Loire (49)"
             twitter: https://x.com/angersraaf
+          - name: Ressac
+            description: Groupe politique de Brest pour la défense et l'intervention dans les mouvements sociaux
+            homepage_url: https://www.instagram.com/ressac_brest/
+            logo: ressac.jpg
+            second_path: 
+              - "Bretagne / Finistère (29)"
           - name: Riposte Collective
             description: Groupe ouvert et public pour organiser la riposte !
             homepage_url: https://riposte-collective.org/
@@ -436,10 +448,16 @@ categories:
             logo: angryWorkers.jpg
             second_path: 
               - "International / Royaume-Uni"
+          - name: antimilitarismus.noblogs.org
+            description: // Anti-militarist initiative // Antimilitaristische initiative // Антимілітаристська ініціатива //
+            homepage_url: https://antimilitarismus.noblogs.org/
+            logo: antimilitarismus.png
+            second_path: 
+              - "International / -"
           - name: Archives autonomie
             description: Fragments d'histoire de la gauche radicale
             homepage_url: https://archivesautonomies.org/
-            logo: noImage.jpg
+            logo: archiveAutonomie.png
             second_path: 
               - "National / -"
           - name: Assembly
@@ -457,7 +475,7 @@ categories:
             homepage_url: https://attaque.noblogs.org/
             logo: attaque.jpg
             second_path:
-              - "International / -"
+              - "National / -"
           - name: bureburebure.info
             description: Collectif anti-nucléaire 
             homepage_url: https://bureburebure.info/
@@ -479,7 +497,7 @@ categories:
           - name: Dimanche Aprèm
             description: un site critique de l'appelisme
             homepage_url: https://dimanche.pm
-            logo: noImage.jpg
+            logo: dimanchePm.png
             second_path: 
               - "National / -"
           - name: Grupo Barbaria
@@ -552,6 +570,6 @@ categories:
           - name: Zones subversives
             description: Chroniques critiques
             homepage_url: http://www.zones-subversives.com
-            logo: noImage.jpg
+            logo: zonesSubversives.png
             second_path: 
               - "Médias / Sites web"
