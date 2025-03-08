@@ -77,13 +77,6 @@ categories:
             logo: anamorphose.jpg
             second_path: 
               - "Hauts-de-France / Nord (59)"
-          - name: ASAP Révolution
-            description: Groupe révolutionnaire, contre l'État, la marchandise, le travail
-            homepage_url: https://asap.noblogs.org
-            logo: asapRevolution.jpeg
-            second_path: 
-              - "Bretagne / Ile-et-Vilaine (35)"
-            twitter: https://x.com/asap_revolution
           - name: Athénée Libertaire
             description: |
               Espace associatif et militant créé dans les années 60 par des militant·es anarchistes bordelais·es. Ce lieu héberge des activités libertaires à Bordeaux. Il favorise des rencontres, des initiatives, des débats, des échanges sur d'autres bases que celles du fric, de la consommation, de l'aliénation, de l'exploitation et de la domination.
@@ -537,13 +530,6 @@ categories:
             logo: radarSquatNet.png
             second_path: 
               - "International / -"
-          - name: Rennes DTR
-            description: Média autonome sur les luttes à Rennes
-            homepage_url: https://x.com/RennesDTR
-            logo: rennesDtr.jpg
-            second_path: 
-              - "Bretagne / Ile-et-Vilaine (35)" 
-            twitter: https://x.com/RennesDTR
           - name: Réseau Mutu
             description: "Ce réseau, appelé « Mutu », correspond à un projet tout simple : la tentative de partager nos expériences et mettre en commun un certain nombre de dispositifs techniques."
             homepage_url: https://reseaumutu.info/Presentation-du-reseau-Mutu-001
